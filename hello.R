@@ -9,3 +9,6 @@ print(nama)
 print(usia)
 print(ipk)
 
+cetaktotal = paste("Cetak Total = ",nama,usia,ipk)
+
+print(cetaktotal)
